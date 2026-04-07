@@ -1,14 +1,9 @@
-/**
- * DPDP Compliance Checker — Popup Controller (Production)
- */
 
-// ─── Constants ───────────────────────────────────────────────────────────────
-const DEFAULT_BACKEND_URL = "https://ajaydhaker.pythonanywhere.com/";
 
-// ─── DOM Helpers ─────────────────────────────────────────────────────────────
+const DEFAULT_BACKEND_URL = "https://ajaydhaker.pythonanywhere.com/analyze";
+
 const $ = (id) => document.getElementById(id);
 
-// ─── DOM References ──────────────────────────────────────────────────────────
 const elements = {
   settingsToggle: $("settingsToggle"),
   settingsPanel: $("settingsPanel"),

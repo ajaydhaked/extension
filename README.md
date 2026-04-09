@@ -46,16 +46,13 @@ extension/
 ## Work Flow
 
 ### Privacy Policy Detection
-![Extension UI - Privacy Policy Detected](./images/ExtensionUI.png)
-*Extension detects a privacy policy and displays confidence level with page analysis details*
+<img src="./images/ExtensionUI.png" width="450" height="300" alt="Extension UI - Privacy Policy Detected" />
 
 ### Evaluation in Progress
-![Evaluation UI - Analyzing Compliance](./images/EvaluationUI.png)
-*Real-time compliance evaluation against DPDP Act provisions*
+<img src="./images/EvaluationUI.png" width="450" height="300" alt="Evaluation UI - Analyzing Compliance" />
 
 ### Compliance Results with Violations
-![Violation UI - Non-Compliant Results](./images/ViolationUI.png)
-*Detailed violation report showing specific DPDP Act compliance issues found in the privacy policy*
+<img src="./images/ViolationUI.png" width="450" height="300" alt="Violation UI - Non-Compliant Results" />
 
 ---
 
